@@ -1,5 +1,8 @@
 ###  Hello, This is Nakul. 👋
-#### Feel free to email me about any queries, you might have in the following projects. 😄
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=nakul-shahdadpuri">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul-shahdadpuri">
 <!--
 **nakul-shahdadpuri/nakul-shahdadpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
