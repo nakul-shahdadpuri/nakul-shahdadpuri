@@ -1,6 +1,5 @@
 ###  Hello, This is Nakul. 👋
 
-- 🌱 I’m currently learning Opengl and Vulkan.
 - 📫 How to reach me: <a href = "https://nakulshahdadpuri3141@gmail.com"> Mail </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nakul-shahdadpuri">
